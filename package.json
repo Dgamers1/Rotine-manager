@@ -1,0 +1,17 @@
+{
+  "name": "dgamer-routine-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel de rotina Dgamer com Node.js, Render e Supabase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
+    "express": "^5.1.0"
+  }
+}
